@@ -1,16 +1,23 @@
 // A book as an object
 
+
 var book;
 
 book = {
-    title : "The Hobbit",
-    author : "J. R. R. Tolkien",
-    published : 1937
+    title : "Spritualism",
+    author : "Swami Vivekanandha",
+    published : 1975
 };
 
 console.log(book);
 
+book2 = {
+    title : "Hero",
+    author : "San Marshell",
+    published : 1975
+};
 
+console.log(book2);
 
 /* Further Adventures
  *
