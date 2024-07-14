@@ -1,11 +1,11 @@
 // Using a variable as a property value
 
-var book;
+var book1;
 var bookName;
 
-bookName = "The Adventures of Tom Sawyer";
+bookName = "Do Epic Shit";
 
-book = {
+book1 = {
     title : bookName
 };
 
