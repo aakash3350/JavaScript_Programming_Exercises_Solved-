@@ -5,17 +5,25 @@ var book2;
 
 book1 = {
 	title: "The Hobbit",
-	author: "J. R. R. Tolkien"
+	author: "J. R. R. Tolkien",
+    year: 1979
 };
 
 book2 = {
 	title: "Northern Lights",
-	author: "Philip Pullman"
+	author: "Philip Pullman",
+    year: 1987
 };
 
-console.log(book1.title + " by " + book1.author);
-console.log(book2.title + " by " + book2.author);
+book3 = {
+	title: "Atomic Habits ",
+	author: "james clear",
+    year: 2018
+};
 
+console.log(book1.title + " by " + book1.author + "published in" + book1.year);
+console.log(book2.title + " by " + book2.author + "published in" + book2.year);
+console.log(book3.title + " by " + book3.author + "published in" + book3.year);
 
 
 /* Further Adventures
