@@ -3,15 +3,18 @@
 var thisIsFine;
 var $noProblemHere;
 var _underscore56;
-var StartWithCapital;
+var startWithCapital;
 var z5;
 
-var 999;
-var 39Steps;
-var &nope;
-var single words only;
+// var 999;
+var steps;
+var nope;
+var single_words_only;
 var yield;
 
+// this below is to test working
+z5=56; 
+console.log(z5);
 
 
 /* Further Adventures
