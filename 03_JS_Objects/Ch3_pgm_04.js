@@ -1,9 +1,14 @@
 // Creating an empty object
 
+
 var book;
 
-book = {};
+book = {
 
+
+};
+
+console.log(book);
 
 /* Further Adventures
  *
