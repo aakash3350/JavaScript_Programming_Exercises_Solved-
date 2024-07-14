@@ -2,6 +2,7 @@
 
 var book1;
 var book2;
+var book3;
 
 book1 = {
 	title: "The Hobbit",
