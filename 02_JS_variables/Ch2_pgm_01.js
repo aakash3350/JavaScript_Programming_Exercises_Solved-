@@ -1,7 +1,8 @@
 // Declaring a variable
 
 var score;
-
+var score1;
+var score2;
 /* Further Adventures
  *
  * 1) Delete the semicolon at after the word score.
