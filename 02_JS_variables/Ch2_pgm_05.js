@@ -2,12 +2,14 @@
 
 var message;
 
-message = "Hello World!";
+message = "Hello"+"World!";
 console.log(message);
 
-message = 'Congratulations! Your tweet has won a prize...';
+message = "Congratulations!" + "Your tweet has" + " won a prize...";
 console.log(message);
 
+message = "Your Tweet is on Trending Now"
+console.log(message);
 
 
 /* Further Adventures
