@@ -6,19 +6,19 @@ var book2;
 book1 = {
 	title: "The Hobbit",
 	author: "J. R. R. Tolkien",
-    year: 1979
+        year: 1979
 };
 
 book2 = {
 	title: "Northern Lights",
 	author: "Philip Pullman",
-    year: 1987
+        year: 1987
 };
 
 book3 = {
 	title: "Atomic Habits ",
 	author: "james clear",
-    year: 2018
+        year: 2018
 };
 
 console.log(book1.title + " by " + book1.author + "published in" + book1.year);
